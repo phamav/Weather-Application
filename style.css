@@ -1,0 +1,39 @@
+* {
+    font-family:serif;
+}
+
+.navbar {
+    background-color: black;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.navbar-nav {
+    float: left;
+    margin: auto;
+}
+
+.navbar a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: solid;
+    font-size: 30px;
+}
+
+.row {
+    margin: auto;
+}
+
+p, h3 {
+    text-align: center;
+}
+
+#par1 {
+    text-align: left;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.05);
+}
