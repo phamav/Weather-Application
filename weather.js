@@ -1,7 +1,7 @@
 var tomtomPre = "https://api.tomtom.com/search/2/geocode/"
-var tomtomPost = ".json?limit=1&view=Unified&key=WAXo72KLN8tmKy4TMy03VbmqJvMTwaW9";
+var tomtomPost = ".json?limit=1&view=Unified&key=something";
 var owmPre = "http://api.openweathermap.org/data/2.5/forecast?"
-var openWeatherMapKey = "c0733c45d18d5f2a8614facd93b9ac62";
+var openWeatherMapKey = "";
 var picURL = " http://openweathermap.org/img/wn/";
 var localURL = "http://localhost:8080/cse383_php/final.php?method=";
 
