@@ -1,6 +1,6 @@
-# Web Programming Project
-<h2>My final project for web programming</h2>
-<p>This is a multi-page web client that features numerous aspects of web programming from front-end to back-end. It uses HTML/CSS, JavaScript, jQuery, and AJAX, and PHP for functionalities. The website uses external CSS and Bootstrap 5 components for the good-looking and responsive purposes. Currently, for the history requests on PHP, it only works on Miami University's CEC OpenStack instances. Feel free to check out the repository, but please don't share it to anyone as it is my personal property</p>
+# The Weather Website
+<h2>Final project for CSE383: Web Application Programming</h2>
+<p>This is a multi-page web client that features numerous aspects of web programming from front-end to back-end. It uses HTML/CSS, JavaScript, jQuery, and AJAX, and PHP for functionalities. The website uses external CSS and Bootstrap 5 components for the good-looking and responsive purposes. Currently, for the history requests on PHP, it only works on Miami University's CEC OpenStack instances. Feel free to check out the repository!</p>
 
 <p>Here are some screenshots of the website:</p>
 <p>1. Main page</p>
